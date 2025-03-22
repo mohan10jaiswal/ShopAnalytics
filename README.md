@@ -45,5 +45,20 @@ ShopAnalytics is a data-driven analytics project that processes and visualizes s
 - Implement machine learning models for sales prediction.
 - Optimize data pipelines for real-time analytics.
 
+- ## 📊 Output Screenshots
+
+### Sales Dashboard
+![Sales Dashboard](Output/OP1.png)
+
+### Revenue Analysis
+![Revenue Analysis](Output/OP2.png)
+
+### Customer Insights
+![Customer Insights](Output/OP3.png)
+
+### Performance Metrics
+![Performance Metrics](Output/OP4.png)
+
+
 ---
 
